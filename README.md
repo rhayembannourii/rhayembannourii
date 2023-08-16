@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **NLP,Deep Learning,Machine Learning**
 
-- 📫 How to reach me **rhayembannouri1@gmail.com**
+- 📫 How to reach me **rhayem.bannouri@esprit.tn**
 
 - ⚡ Fun fact **AI is the new electricity.**
 
