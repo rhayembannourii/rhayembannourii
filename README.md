@@ -1,7 +1,7 @@
 
 <img align="center" alt="data science" width="1000" height="350" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
 <h1 align="center">Hi 👋, I'm Rhayem Bannouri</h1>
-<h3 align="center">A passionate data scientist from Tunisia</h3>
+<h3 align="center">A passionate software engineering from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
